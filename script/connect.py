@@ -11,6 +11,7 @@ try:
     host="your host", 
     user="your user",
     password="your password"
+    database="your database",
   )
 
 #chamando o Error code, se caso a conexão acima não foi bem sucedida
